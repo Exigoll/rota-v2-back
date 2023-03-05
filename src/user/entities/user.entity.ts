@@ -15,9 +15,6 @@ export class UserEntity {
   password: string;
 
   @Column()
-  login: string;
-
-  @Column()
   address: string;
 
   @Column()
