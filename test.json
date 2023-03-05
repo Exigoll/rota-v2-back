@@ -1,0 +1,2814 @@
+{
+  "brand": "VAG",
+  "crosses": [
+    {
+      "brand": "Delphi",
+      "number": "BG3208",
+      "numberFix": "BG3208",
+      "crossType": 1,
+      "reliable": true
+    },
+    {
+      "brand": "Bosch",
+      "number": "0.986.478.853",
+      "numberFix": "0986478853",
+      "short_number": "986478853",
+      "crossType": 1,
+      "reliable": true
+    },
+    {
+      "brand": "Textar",
+      "number": "89005300",
+      "numberFix": "89005300",
+      "crossType": 1,
+      "reliable": true
+    },
+    {
+      "brand": "Textar",
+      "number": "89013500",
+      "numberFix": "89013500",
+      "crossType": 1,
+      "reliable": true
+    },
+    {
+      "brand": "Textar",
+      "number": "92082203",
+      "numberFix": "92082203",
+      "crossType": 1,
+      "reliable": true
+    },
+    {
+      "brand": "Textar",
+      "number": "92082200",
+      "numberFix": "92082200",
+      "crossType": 1,
+      "reliable": true
+    },
+    {
+      "brand": "Jurid",
+      "number": "562040JC",
+      "numberFix": "562040JC",
+      "crossType": 1,
+      "reliable": true
+    },
+    {
+      "brand": "Jurid",
+      "number": "562040J",
+      "numberFix": "562040J",
+      "crossType": 1,
+      "reliable": true
+    },
+    {
+      "brand": "Brembo",
+      "number": "09.7011.75",
+      "numberFix": "09701175",
+      "crossType": 1,
+      "reliable": true
+    },
+    {
+      "brand": "Brembo",
+      "number": "09.7011.11",
+      "numberFix": "09701111",
+      "crossType": 1,
+      "reliable": true
+    },
+    {
+      "brand": "Brembo",
+      "number": "09.7011.14",
+      "numberFix": "09701114",
+      "crossType": 1,
+      "reliable": true
+    },
+    {
+      "brand": "Brembo",
+      "number": "FD.075.000",
+      "numberFix": "FD075000",
+      "crossType": 1,
+      "reliable": false
+    },
+    {
+      "brand": "Brembo",
+      "number": "FS.075.000",
+      "numberFix": "FS075000",
+      "crossType": 1,
+      "reliable": false
+    },
+    {
+      "brand": "Mintex",
+      "number": "MDC1019",
+      "numberFix": "MDC1019",
+      "crossType": 1,
+      "reliable": true
+    },
+    {
+      "brand": "Mintex",
+      "number": "MDK0152",
+      "numberFix": "MDK0152",
+      "crossType": 1,
+      "reliable": true
+    },
+    {
+      "brand": "Zimmermann",
+      "number": "100.1233.52",
+      "numberFix": "100123352",
+      "crossType": 1,
+      "reliable": true
+    },
+    {
+      "brand": "Zimmermann",
+      "number": "100.1233.20",
+      "numberFix": "100123320",
+      "crossType": 1,
+      "reliable": true
+    },
+    {
+      "brand": "Zimmermann",
+      "number": "100.1233.70",
+      "numberFix": "100123370",
+      "crossType": 1,
+      "reliable": false
+    },
+    {
+      "brand": "Meyle",
+      "number": "115 521 1018/PD",
+      "numberFix": "1155211018PD",
+      "crossType": 1,
+      "reliable": false
+    },
+    {
+      "brand": "Febi",
+      "number": "14404",
+      "numberFix": "14404",
+      "crossType": 1,
+      "reliable": true
+    },
+    {
+      "brand": "TRISCAN",
+      "number": "8120 29146",
+      "numberFix": "812029146",
+      "crossType": 1,
+      "reliable": false
+    },
+    {
+      "brand": "Nk",
+      "number": "204758",
+      "numberFix": "204758",
+      "crossType": 1,
+      "reliable": true
+    },
+    {
+      "brand": "Optimal",
+      "number": "BS-5450",
+      "numberFix": "BS5450",
+      "crossType": 1,
+      "reliable": true
+    },
+    {
+      "brand": "Meyle",
+      "number": "115 521 1018",
+      "numberFix": "1155211018",
+      "crossType": 1,
+      "reliable": true
+    },
+    {
+      "brand": "Swag",
+      "number": "32 91 4404",
+      "numberFix": "32914404",
+      "crossType": 1,
+      "reliable": true
+    },
+    {
+      "brand": "TRW",
+      "number": "DF 2803",
+      "numberFix": "DF2803",
+      "crossType": 1,
+      "reliable": true
+    },
+    {
+      "brand": "VAICO",
+      "number": "V10-80043",
+      "numberFix": "V1080043",
+      "crossType": 1,
+      "reliable": true
+    },
+    {
+      "brand": "VIEROL",
+      "number": "V10-80043",
+      "numberFix": "V1080043",
+      "crossType": 1,
+      "reliable": false
+    },
+    {
+      "brand": "VEMO",
+      "number": "V10-80043",
+      "numberFix": "V1080043",
+      "crossType": 1,
+      "reliable": false
+    },
+    {
+      "brand": "ACKOJAP",
+      "number": "V10-80043",
+      "numberFix": "V1080043",
+      "crossType": 1,
+      "reliable": false
+    },
+    {
+      "brand": "KAMOKA",
+      "number": "1031854",
+      "numberFix": "1031854",
+      "crossType": 1,
+      "reliable": true
+    },
+    {
+      "brand": "Abs",
+      "number": "16880",
+      "numberFix": "16880",
+      "crossType": 1,
+      "reliable": false
+    },
+    {
+      "brand": "MAXGEAR",
+      "number": "19-0774",
+      "numberFix": "190774",
+      "crossType": 1,
+      "reliable": true
+    },
+    {
+      "brand": "MAXGEAR",
+      "number": "19-0774MAX",
+      "numberFix": "190774MAX",
+      "crossType": 1,
+      "reliable": true
+    },
+    {
+      "brand": "Comline",
+      "number": "ADC1407V",
+      "numberFix": "ADC1407V",
+      "crossType": 1,
+      "reliable": true
+    },
+    {
+      "brand": "VAG",
+      "number": "8Z0 615 301D",
+      "numberFix": "8Z0615301D",
+      "crossType": 1,
+      "reliable": true
+    },
+    {
+      "brand": "PORSCHE",
+      "number": "8Z0 615 301D",
+      "numberFix": "8Z0615301D",
+      "crossType": 1,
+      "reliable": false
+    },
+    {
+      "brand": "BENTLEY",
+      "number": "8Z0 615 301D",
+      "numberFix": "8Z0615301D",
+      "crossType": 1,
+      "reliable": false
+    },
+    {
+      "brand": "NiBK",
+      "number": "RN1082",
+      "numberFix": "RN1082",
+      "alt_number": "RN1082V",
+      "crossType": 1,
+      "reliable": true
+    },
+    {
+      "brand": "VAG",
+      "number": "1J06 153 01D",
+      "numberFix": "1J0615301D",
+      "crossType": 1,
+      "reliable": true
+    },
+    {
+      "brand": "PORSCHE",
+      "number": "1J06 153 01D",
+      "numberFix": "1J0615301D",
+      "crossType": 1,
+      "reliable": false
+    },
+    {
+      "brand": "BENTLEY",
+      "number": "1J06 153 01D",
+      "numberFix": "1J0615301D",
+      "crossType": 1,
+      "reliable": false
+    },
+    {
+      "brand": "VAG",
+      "number": "8Z0 615 301B",
+      "numberFix": "8Z0615301B",
+      "crossType": 1,
+      "reliable": true
+    },
+    {
+      "brand": "PORSCHE",
+      "number": "8Z0 615 301B",
+      "numberFix": "8Z0615301B",
+      "crossType": 1,
+      "reliable": true
+    },
+    {
+      "brand": "BENTLEY",
+      "number": "8Z0 615 301B",
+      "numberFix": "8Z0615301B",
+      "crossType": 1,
+      "reliable": true
+    },
+    {
+      "brand": "VAG",
+      "number": "6QD 615 301",
+      "numberFix": "6QD615301",
+      "crossType": 1,
+      "reliable": true
+    },
+    {
+      "brand": "PORSCHE",
+      "number": "6QD 615 301",
+      "numberFix": "6QD615301",
+      "crossType": 1,
+      "reliable": true
+    },
+    {
+      "brand": "BENTLEY",
+      "number": "6QD 615 301",
+      "numberFix": "6QD615301",
+      "crossType": 1,
+      "reliable": true
+    },
+    {
+      "brand": "VAG",
+      "number": "1J0 615 301L",
+      "numberFix": "1J0615301L",
+      "crossType": 1,
+      "reliable": true
+    },
+    {
+      "brand": "PORSCHE",
+      "number": "1J0 615 301L",
+      "numberFix": "1J0615301L",
+      "crossType": 1,
+      "reliable": true
+    },
+    {
+      "brand": "BENTLEY",
+      "number": "1J0 615 301L",
+      "numberFix": "1J0615301L",
+      "crossType": 1,
+      "reliable": true
+    },
+    {
+      "brand": "Ate",
+      "number": "24-0122-0151-1",
+      "numberFix": "24012201511",
+      "crossType": 1,
+      "reliable": true
+    },
+    {
+      "brand": "Vika",
+      "number": "60221",
+      "numberFix": "60221",
+      "crossType": 1,
+      "reliable": true
+    },
+    {
+      "brand": "Ad",
+      "number": "501 004 100",
+      "numberFix": "501004100",
+      "crossType": 1,
+      "reliable": false
+    },
+    {
+      "brand": "AUTOMEGA",
+      "number": "1061503016R0",
+      "numberFix": "1061503016R0",
+      "crossType": 1,
+      "reliable": false
+    },
+    {
+      "brand": "Dello",
+      "number": "1061503016R0",
+      "numberFix": "1061503016R0",
+      "crossType": 1,
+      "reliable": false
+    },
+    {
+      "brand": "AUTOMEGA",
+      "number": "3061503016R0",
+      "numberFix": "3061503016R0",
+      "crossType": 1,
+      "reliable": true
+    },
+    {
+      "brand": "Dello",
+      "number": "3061503016R0",
+      "numberFix": "3061503016R0",
+      "crossType": 1,
+      "reliable": true
+    },
+    {
+      "brand": "Logem",
+      "number": "LVA-1242",
+      "numberFix": "LVA1242",
+      "crossType": 1,
+      "reliable": false
+    },
+    {
+      "brand": "Ate",
+      "number": "24-0322-0151-1",
+      "numberFix": "24032201511",
+      "crossType": 1,
+      "reliable": true
+    },
+    {
+      "brand": "BRP",
+      "number": "BD-6040",
+      "numberFix": "BD6040",
+      "crossType": 1,
+      "reliable": true
+    },
+    {
+      "brand": "MASTER-SPORT",
+      "number": "24-0122-0151-1-SEL+R-SET/2/-MS",
+      "numberFix": "24012201511SELRSET2MS",
+      "crossType": 1,
+      "reliable": false
+    },
+    {
+      "brand": "Bosch",
+      "number": "0 986 479 912",
+      "numberFix": "0986479912",
+      "short_number": "986479912",
+      "crossType": 1,
+      "reliable": true
+    },
+    {
+      "brand": "Ferodo",
+      "number": "DDF927C-1",
+      "numberFix": "DDF927C1",
+      "crossType": 1,
+      "reliable": false
+    },
+    {
+      "brand": "Ferodo",
+      "number": "DDF 927",
+      "numberFix": "DDF927",
+      "crossType": 1,
+      "reliable": true
+    },
+    {
+      "brand": "TRISCAN",
+      "number": "8120 29146C",
+      "numberFix": "812029146C",
+      "crossType": 1,
+      "reliable": false
+    },
+    {
+      "brand": "Metelli",
+      "number": "23-0390C",
+      "numberFix": "230390C",
+      "crossType": 1,
+      "reliable": false
+    },
+    {
+      "brand": "Nk",
+      "number": "314758",
+      "numberFix": "314758",
+      "crossType": 1,
+      "reliable": true
+    },
+    {
+      "brand": "TruckTec",
+      "number": "07.35.065",
+      "numberFix": "0735065",
+      "crossType": 1,
+      "reliable": false
+    },
+    {
+      "brand": "AUTOMEGA",
+      "number": "3061503011J0D",
+      "numberFix": "3061503011J0D",
+      "crossType": 1,
+      "reliable": true
+    },
+    {
+      "brand": "Dello",
+      "number": "3061503011J0D",
+      "numberFix": "3061503011J0D",
+      "crossType": 1,
+      "reliable": true
+    },
+    {
+      "brand": "BSG AUTO PARTS",
+      "number": "BSG90-210-012",
+      "numberFix": "BSG90210012",
+      "crossType": 1,
+      "reliable": true
+    },
+    {
+      "brand": "ASP",
+      "number": "410201",
+      "numberFix": "410201",
+      "crossType": 1,
+      "reliable": true
+    },
+    {
+      "brand": "Sat",
+      "number": "ST-6R615301",
+      "numberFix": "ST6R615301",
+      "crossType": 1,
+      "reliable": true
+    },
+    {
+      "brand": "GALFER",
+      "number": "B1G22201511",
+      "numberFix": "B1G22201511",
+      "crossType": 1,
+      "reliable": false
+    },
+    {
+      "brand": "GALFER",
+      "number": "G2122151",
+      "numberFix": "G2122151",
+      "crossType": 1,
+      "reliable": false
+    },
+    {
+      "brand": "ASHUKI",
+      "number": "159558A",
+      "numberFix": "159558A",
+      "crossType": 1,
+      "reliable": false
+    },
+    {
+      "brand": "JP Group",
+      "number": "1163101100",
+      "numberFix": "1163101100",
+      "crossType": 1,
+      "reliable": false
+    },
+    {
+      "brand": "ROTINGER",
+      "number": "RT2479",
+      "numberFix": "RT2479",
+      "crossType": 1,
+      "reliable": false
+    },
+    {
+      "brand": "PROFIT",
+      "number": "5010-0927",
+      "numberFix": "50100927",
+      "crossType": 1,
+      "reliable": false
+    },
+    {
+      "brand": "EuroBrake",
+      "number": "5815204758",
+      "numberFix": "5815204758",
+      "crossType": 1,
+      "reliable": true
+    },
+    {
+      "brand": "ROTINGER",
+      "number": "RT2479T5",
+      "numberFix": "RT2479T5",
+      "crossType": 1,
+      "reliable": false
+    },
+    {
+      "brand": "BENDIX",
+      "number": "562040BC",
+      "numberFix": "562040BC",
+      "crossType": 1,
+      "reliable": false
+    },
+    {
+      "brand": "Blue Print",
+      "number": "ADV184309",
+      "numberFix": "ADV184309",
+      "crossType": 1,
+      "reliable": false
+    },
+    {
+      "brand": "SBS",
+      "number": "1815314758",
+      "numberFix": "1815314758",
+      "crossType": 1,
+      "reliable": false
+    },
+    {
+      "brand": "topran",
+      "number": "107 680",
+      "numberFix": "107680",
+      "alt_number": "107680001",
+      "crossType": 1,
+      "reliable": true
+    },
+    {
+      "brand": "MASTER-SPORT",
+      "number": "24012201511SE-SET-MS",
+      "numberFix": "24012201511SESETMS",
+      "crossType": 1,
+      "reliable": false
+    },
+    {
+      "brand": "Optimal",
+      "number": "BS-5450C",
+      "numberFix": "BS5450C",
+      "crossType": 1,
+      "reliable": false
+    },
+    {
+      "brand": "StarLine",
+      "number": "PB 2479",
+      "numberFix": "PB2479",
+      "crossType": 1,
+      "reliable": false
+    },
+    {
+      "brand": "Logem",
+      "number": "LVA-1241",
+      "numberFix": "LVA1241",
+      "crossType": 1,
+      "reliable": false
+    },
+    {
+      "brand": "LGR",
+      "number": "LGR-6270",
+      "numberFix": "LGR6270",
+      "crossType": 1,
+      "reliable": false
+    },
+    {
+      "brand": "ALLIED NIPPON",
+      "number": "ADC1407V",
+      "numberFix": "ADC1407V",
+      "crossType": 1,
+      "reliable": true
+    },
+    {
+      "brand": "VAG",
+      "number": "6RD 615 301",
+      "numberFix": "6RD615301",
+      "crossType": 1,
+      "reliable": false
+    },
+    {
+      "brand": "PORSCHE",
+      "number": "6RD 615 301",
+      "numberFix": "6RD615301",
+      "crossType": 1,
+      "reliable": false
+    },
+    {
+      "brand": "BENTLEY",
+      "number": "6RD 615 301",
+      "numberFix": "6RD615301",
+      "crossType": 1,
+      "reliable": false
+    },
+    {
+      "brand": "BORSEHUNG",
+      "number": "B11374",
+      "numberFix": "B11374",
+      "crossType": 1,
+      "reliable": true
+    },
+    {
+      "brand": "Amiwa",
+      "number": "ABD2601",
+      "numberFix": "ABD2601",
+      "crossType": 1,
+      "reliable": true
+    },
+    {
+      "brand": "Zekkert",
+      "number": "BS-5031",
+      "numberFix": "BS5031",
+      "crossType": 1,
+      "reliable": true
+    },
+    {
+      "brand": "Panda",
+      "number": "PP-6R615301",
+      "numberFix": "PP6R615301",
+      "crossType": 1,
+      "reliable": false
+    },
+    {
+      "brand": "AMD",
+      "number": "AMD.BD239",
+      "numberFix": "AMDBD239",
+      "crossType": 1,
+      "reliable": true
+    },
+    {
+      "brand": "Francecar",
+      "number": "FCR210518",
+      "numberFix": "FCR210518",
+      "crossType": 1,
+      "reliable": false
+    },
+    {
+      "brand": "FENOX",
+      "number": "TB217150",
+      "numberFix": "TB217150",
+      "crossType": 1,
+      "reliable": true
+    },
+    {
+      "brand": "DODA",
+      "number": "1070100035",
+      "numberFix": "1070100035",
+      "crossType": 1,
+      "reliable": false
+    },
+    {
+      "brand": "Miles",
+      "number": "K000412",
+      "numberFix": "K000412",
+      "crossType": 1,
+      "reliable": true
+    },
+    {
+      "brand": "OSSCA",
+      "number": "02679",
+      "numberFix": "02679",
+      "crossType": 1,
+      "reliable": true
+    },
+    {
+      "brand": "autoSFEC",
+      "number": "BD000150",
+      "numberFix": "BD000150",
+      "crossType": 1,
+      "reliable": false
+    },
+    {
+      "brand": "BORG & BECK",
+      "number": "BBD4064",
+      "numberFix": "BBD4064",
+      "crossType": 1,
+      "reliable": false
+    },
+    {
+      "brand": "UBS",
+      "number": "B2102001",
+      "numberFix": "B2102001",
+      "crossType": 1,
+      "reliable": true
+    },
+    {
+      "brand": "NSP",
+      "number": "NSP086R0615301",
+      "numberFix": "NSP086R0615301",
+      "crossType": 1,
+      "reliable": true
+    },
+    {
+      "brand": "TSN",
+      "number": "2.6.366",
+      "numberFix": "26366",
+      "crossType": 1,
+      "reliable": true
+    },
+    {
+      "brand": "Francecar",
+      "number": "FCR220518",
+      "numberFix": "FCR220518",
+      "crossType": 1,
+      "reliable": true
+    },
+    {
+      "brand": "Klaxcar",
+      "number": "25695z",
+      "numberFix": "25695Z",
+      "crossType": 1,
+      "reliable": false
+    },
+    {
+      "brand": "G.U.D",
+      "number": "GDB122151",
+      "numberFix": "GDB122151",
+      "crossType": 1,
+      "reliable": true
+    },
+    {
+      "brand": "Delphi",
+      "number": "BG3208C",
+      "numberFix": "BG3208C",
+      "crossType": 1,
+      "reliable": true
+    },
+    {
+      "brand": "Api",
+      "number": "24690 V",
+      "numberFix": "24690V",
+      "crossType": 1,
+      "reliable": false
+    },
+    {
+      "brand": "Api",
+      "number": "24690 X",
+      "numberFix": "24690X",
+      "crossType": 1,
+      "reliable": false
+    },
+    {
+      "brand": "Api",
+      "number": "24690 E",
+      "numberFix": "24690E",
+      "crossType": 1,
+      "reliable": false
+    },
+    {
+      "brand": "Api",
+      "number": "X 24690",
+      "numberFix": "X24690",
+      "crossType": 1,
+      "reliable": false
+    },
+    {
+      "brand": "Brembo",
+      "number": "09.7011.1X",
+      "numberFix": "0970111X",
+      "crossType": 1,
+      "reliable": true
+    },
+    {
+      "brand": "Lpr",
+      "number": "A1461V",
+      "numberFix": "A1461V",
+      "crossType": 1,
+      "reliable": false
+    },
+    {
+      "brand": "Lpr/AP",
+      "number": "A1461V",
+      "numberFix": "A1461V",
+      "crossType": 1,
+      "reliable": false
+    },
+    {
+      "brand": "MAGNETI MARELLI",
+      "number": "360406049400",
+      "numberFix": "360406049400",
+      "crossType": 1,
+      "reliable": false
+    },
+    {
+      "brand": "MAGNETI MARELLI",
+      "number": "361302040220",
+      "numberFix": "361302040220",
+      "crossType": 1,
+      "reliable": false
+    },
+    {
+      "brand": "Meyle",
+      "number": "183 521 1018/PD",
+      "numberFix": "1835211018PD",
+      "crossType": 1,
+      "reliable": true
+    },
+    {
+      "brand": "Stellox",
+      "number": "6020-4758V-SX",
+      "numberFix": "60204758VSX",
+      "crossType": 1,
+      "reliable": false
+    },
+    {
+      "brand": "Valeo",
+      "number": "297603",
+      "numberFix": "297603",
+      "crossType": 1,
+      "reliable": true
+    },
+    {
+      "brand": "MOTRIO",
+      "number": "8671004911",
+      "numberFix": "8671004911",
+      "crossType": 1,
+      "reliable": true
+    },
+    {
+      "brand": "KORTEX",
+      "number": "KD0013",
+      "numberFix": "KD0013",
+      "crossType": 1,
+      "reliable": false
+    },
+    {
+      "brand": "LYNXauto",
+      "number": "BN-1199",
+      "numberFix": "BN1199",
+      "crossType": 1,
+      "reliable": true
+    },
+    {
+      "brand": "EGT",
+      "number": "410050EGT",
+      "numberFix": "410050EGT",
+      "crossType": 1,
+      "reliable": true
+    },
+    {
+      "brand": "HDE",
+      "number": "7501003",
+      "numberFix": "7501003",
+      "crossType": 1,
+      "reliable": true
+    },
+    {
+      "brand": "AUTOMEGA",
+      "number": "120016510",
+      "numberFix": "120016510",
+      "crossType": 1,
+      "reliable": true
+    },
+    {
+      "brand": "Dello",
+      "number": "120016510",
+      "numberFix": "120016510",
+      "crossType": 1,
+      "reliable": true
+    },
+    {
+      "brand": "TORQUE",
+      "number": "jl122",
+      "numberFix": "JL122",
+      "crossType": 1,
+      "reliable": true
+    },
+    {
+      "brand": "VAG",
+      "number": "6R0 615 301C",
+      "numberFix": "6R0615301C",
+      "crossType": 1,
+      "reliable": true
+    },
+    {
+      "brand": "PORSCHE",
+      "number": "6R0 615 301C",
+      "numberFix": "6R0615301C",
+      "crossType": 1,
+      "reliable": true
+    },
+    {
+      "brand": "BENTLEY",
+      "number": "6R0 615 301C",
+      "numberFix": "6R0615301C",
+      "crossType": 1,
+      "reliable": true
+    },
+    {
+      "brand": "UBS",
+      "number": "BP2102001",
+      "numberFix": "BP2102001",
+      "crossType": 1,
+      "reliable": true
+    },
+    {
+      "brand": "DYNAMATRIX-KOREA",
+      "number": "DBD927",
+      "numberFix": "DBD927",
+      "crossType": 1,
+      "reliable": true
+    },
+    {
+      "brand": "FIT",
+      "number": "FR0192V",
+      "numberFix": "FR0192V",
+      "crossType": 1,
+      "reliable": true
+    },
+    {
+      "brand": "Ate",
+      "number": "422151",
+      "numberFix": "422151",
+      "crossType": 1,
+      "reliable": false
+    },
+    {
+      "brand": "Icer",
+      "number": "78BD5602-2",
+      "numberFix": "78BD56022",
+      "crossType": 1,
+      "reliable": false
+    },
+    {
+      "brand": "Mintex",
+      "number": "MDC1019C",
+      "numberFix": "MDC1019C",
+      "crossType": 1,
+      "reliable": true
+    },
+    {
+      "brand": "Ferodo",
+      "number": "DDF927C",
+      "numberFix": "DDF927C",
+      "crossType": 1,
+      "reliable": true
+    },
+    {
+      "brand": "Textar",
+      "number": "92082205",
+      "numberFix": "92082205",
+      "crossType": 1,
+      "reliable": true
+    },
+    {
+      "brand": "GBRAKE",
+      "number": "GR-02479",
+      "numberFix": "GR02479",
+      "crossType": 1,
+      "reliable": true
+    },
+    {
+      "brand": "Valeo phc",
+      "number": "R5021",
+      "numberFix": "R5021",
+      "crossType": 1,
+      "reliable": false
+    },
+    {
+      "brand": "METACO",
+      "number": "3050-001",
+      "numberFix": "3050001",
+      "crossType": 1,
+      "reliable": true
+    },
+    {
+      "brand": "RIDZEL",
+      "number": "DF077",
+      "numberFix": "DF077",
+      "crossType": 1,
+      "reliable": true
+    },
+    {
+      "brand": "DON",
+      "number": "PCD10022",
+      "numberFix": "PCD10022",
+      "crossType": 1,
+      "reliable": true
+    },
+    {
+      "brand": "Sangsin brake",
+      "number": "SD5401",
+      "numberFix": "SD5401",
+      "crossType": 1,
+      "reliable": true
+    },
+    {
+      "brand": "IBERIS",
+      "number": "IB151091",
+      "numberFix": "IB151091",
+      "crossType": 1,
+      "reliable": true
+    },
+    {
+      "brand": "NTY",
+      "number": "HTP-VW-001",
+      "numberFix": "HTPVW001",
+      "crossType": 1,
+      "reliable": false
+    },
+    {
+      "brand": "HELLA PAGID",
+      "number": "53953",
+      "numberFix": "53953",
+      "crossType": 1,
+      "reliable": false
+    },
+    {
+      "brand": "HELLA PAGID",
+      "number": "53953PRO",
+      "numberFix": "53953PRO",
+      "crossType": 1,
+      "reliable": false
+    },
+    {
+      "brand": "QWL",
+      "number": "QF6694",
+      "numberFix": "QF6694",
+      "crossType": 1,
+      "reliable": true
+    },
+    {
+      "brand": "Riginal",
+      "number": "RGDF2803",
+      "numberFix": "RGDF2803",
+      "crossType": 1,
+      "reliable": true
+    },
+    {
+      "brand": "ANYU",
+      "number": "AFK772483",
+      "numberFix": "AFK772483",
+      "crossType": 1,
+      "reliable": true
+    },
+    {
+      "brand": "M-TEX",
+      "number": "MTD467",
+      "numberFix": "MTD467",
+      "crossType": 1,
+      "reliable": true
+    },
+    {
+      "brand": "BM-Motorsport",
+      "number": "BD V 103",
+      "numberFix": "BDV103",
+      "crossType": 1,
+      "reliable": true
+    },
+    {
+      "brand": "DEQST",
+      "number": "10 BDI F0014 000",
+      "numberFix": "10BDIF0014000",
+      "crossType": 1,
+      "reliable": true
+    },
+    {
+      "brand": "MASTER-SPORT",
+      "number": "24012201511SEL-PCS-MS",
+      "numberFix": "24012201511SELPCSMS",
+      "crossType": 1,
+      "reliable": false
+    },
+    {
+      "brand": "MASTER-SPORT",
+      "number": "24012201511SER-PCS-MS",
+      "numberFix": "24012201511SERPCSMS",
+      "crossType": 1,
+      "reliable": false
+    },
+    {
+      "brand": "GANZ",
+      "number": "GIJ10005",
+      "numberFix": "GIJ10005",
+      "crossType": 1,
+      "reliable": true
+    },
+    {
+      "brand": "LGR OEM",
+      "number": "LGR-6270",
+      "numberFix": "LGR6270",
+      "crossType": 1,
+      "reliable": true
+    },
+    {
+      "brand": "Malo",
+      "number": "1110163",
+      "numberFix": "1110163",
+      "crossType": 1,
+      "reliable": false
+    },
+    {
+      "brand": "Comline",
+      "number": "AND6008",
+      "numberFix": "AND6008",
+      "crossType": 1,
+      "reliable": false
+    },
+    {
+      "brand": "RAICAM",
+      "number": "RD00885",
+      "numberFix": "RD00885",
+      "crossType": 1,
+      "reliable": false
+    },
+    {
+      "brand": "KeyParts",
+      "number": "KBD4064",
+      "numberFix": "KBD4064",
+      "crossType": 1,
+      "reliable": false
+    },
+    {
+      "brand": "JURATEK",
+      "number": "VAG119",
+      "numberFix": "VAG119",
+      "crossType": 1,
+      "reliable": false
+    },
+    {
+      "brand": "Road house",
+      "number": "6545.10",
+      "numberFix": "654510",
+      "crossType": 1,
+      "reliable": false
+    },
+    {
+      "brand": "MAXTECH",
+      "number": "871046.0000",
+      "numberFix": "8710460000",
+      "crossType": 1,
+      "reliable": false
+    },
+    {
+      "brand": "MAXTECH",
+      "number": "871046.0060",
+      "numberFix": "8710460060",
+      "crossType": 1,
+      "reliable": false
+    },
+    {
+      "brand": "Mapco",
+      "number": "15830C",
+      "numberFix": "15830C",
+      "crossType": 1,
+      "reliable": false
+    },
+    {
+      "brand": "MAXTECH",
+      "number": "871046.0080",
+      "numberFix": "8710460080",
+      "crossType": 1,
+      "reliable": false
+    },
+    {
+      "brand": "MAXTECH",
+      "number": "871046.6060",
+      "numberFix": "8710466060",
+      "crossType": 1,
+      "reliable": false
+    },
+    {
+      "brand": "Templin",
+      "number": "53.110.10320",
+      "numberFix": "5311010320",
+      "crossType": 1,
+      "reliable": false
+    },
+    {
+      "brand": "Templin",
+      "number": "53.111.10320",
+      "numberFix": "5311110320",
+      "crossType": 1,
+      "reliable": false
+    },
+    {
+      "brand": "JP Group",
+      "number": "1163109100",
+      "numberFix": "1163109100",
+      "crossType": 1,
+      "reliable": false
+    },
+    {
+      "brand": "MOTAQUIP",
+      "number": "LVBD968",
+      "numberFix": "LVBD968",
+      "crossType": 1,
+      "reliable": false
+    },
+    {
+      "brand": "Champion",
+      "number": "562040CH",
+      "numberFix": "562040CH",
+      "crossType": 1,
+      "reliable": true
+    },
+    {
+      "brand": "Remsa",
+      "number": "6545.10",
+      "numberFix": "654510",
+      "crossType": 1,
+      "reliable": false
+    },
+    {
+      "brand": "Delco remy",
+      "number": "RAD1022",
+      "numberFix": "RAD1022",
+      "crossType": 1,
+      "reliable": false
+    },
+    {
+      "brand": "Quaro",
+      "number": "QD1119",
+      "numberFix": "QD1119",
+      "crossType": 1,
+      "reliable": true
+    },
+    {
+      "brand": "BREMSI",
+      "number": "DBA927V",
+      "numberFix": "DBA927V",
+      "crossType": 1,
+      "reliable": false
+    },
+    {
+      "brand": "Delco remy",
+      "number": "RAD1022C",
+      "numberFix": "RAD1022C",
+      "crossType": 1,
+      "reliable": false
+    },
+    {
+      "brand": "FI.BA",
+      "number": "FBD134",
+      "numberFix": "FBD134",
+      "crossType": 1,
+      "reliable": false
+    },
+    {
+      "brand": "FI.BA",
+      "number": "FBD134/H",
+      "numberFix": "FBD134H",
+      "crossType": 1,
+      "reliable": false
+    },
+    {
+      "brand": "BRECK",
+      "number": "BR 302 VA100",
+      "numberFix": "BR302VA100",
+      "crossType": 1,
+      "reliable": false
+    },
+    {
+      "brand": "FREMAX",
+      "number": "BD-5602",
+      "numberFix": "BD5602",
+      "crossType": 1,
+      "reliable": false
+    },
+    {
+      "brand": "FTE Automotive",
+      "number": "BS4669B",
+      "numberFix": "BS4669B",
+      "crossType": 1,
+      "reliable": false
+    },
+    {
+      "brand": "FRIG AIR",
+      "number": "DC10.103",
+      "numberFix": "DC10103",
+      "crossType": 1,
+      "reliable": false
+    },
+    {
+      "brand": "METZGER",
+      "number": "6110627",
+      "numberFix": "6110627",
+      "crossType": 1,
+      "reliable": false
+    },
+    {
+      "brand": "Acemark",
+      "number": "242747",
+      "numberFix": "242747",
+      "crossType": 1,
+      "reliable": false
+    },
+    {
+      "brand": "WOKING",
+      "number": "D6545.10",
+      "numberFix": "D654510",
+      "crossType": 1,
+      "reliable": false
+    },
+    {
+      "brand": "Vika",
+      "number": "66150022101",
+      "numberFix": "66150022101",
+      "crossType": 1,
+      "reliable": true
+    },
+    {
+      "brand": "ROTINGER",
+      "number": "RT 2479-GL",
+      "numberFix": "RT2479GL",
+      "crossType": 1,
+      "reliable": false
+    },
+    {
+      "brand": "ROTINGER",
+      "number": "RT 2479-GL T5",
+      "numberFix": "RT2479GLT5",
+      "crossType": 1,
+      "reliable": false
+    },
+    {
+      "brand": "RIW Automotive",
+      "number": "FD037",
+      "numberFix": "FD037",
+      "crossType": 1,
+      "reliable": false
+    },
+    {
+      "brand": "ROTINGER",
+      "number": "RT 2479HP T5",
+      "numberFix": "RT2479HPT5",
+      "crossType": 1,
+      "reliable": false
+    },
+    {
+      "brand": "ROTINGER",
+      "number": "RT 2479HP-GL T5",
+      "numberFix": "RT2479HPGLT5",
+      "crossType": 1,
+      "reliable": false
+    },
+    {
+      "brand": "ROTINGER",
+      "number": "RT 2479HP-GL",
+      "numberFix": "RT2479HPGL",
+      "crossType": 1,
+      "reliable": false
+    },
+    {
+      "brand": "ROTINGER",
+      "number": "RT 2479HP",
+      "numberFix": "RT2479HP",
+      "crossType": 1,
+      "reliable": false
+    },
+    {
+      "brand": "BRAXIS",
+      "number": "AE0001",
+      "numberFix": "AE0001",
+      "crossType": 1,
+      "reliable": false
+    },
+    {
+      "brand": "MAXTECH",
+      "number": "871046.6880",
+      "numberFix": "8710466880",
+      "crossType": 1,
+      "reliable": false
+    },
+    {
+      "brand": "MAXTECH",
+      "number": "871046.6980",
+      "numberFix": "8710466980",
+      "crossType": 1,
+      "reliable": false
+    },
+    {
+      "brand": "BENDIX",
+      "number": "521954",
+      "numberFix": "521954",
+      "crossType": 1,
+      "reliable": false
+    },
+    {
+      "brand": "R BRAKE",
+      "number": "78RBD25602",
+      "numberFix": "78RBD25602",
+      "crossType": 1,
+      "reliable": false
+    },
+    {
+      "brand": "FTE Automotive",
+      "number": "BS4669HB",
+      "numberFix": "BS4669HB",
+      "crossType": 1,
+      "reliable": false
+    },
+    {
+      "brand": "KAWE",
+      "number": "6545 10",
+      "numberFix": "654510",
+      "crossType": 1,
+      "reliable": false
+    },
+    {
+      "brand": "Akebono",
+      "number": "BN-0003E",
+      "numberFix": "BN0003E",
+      "crossType": 1,
+      "reliable": false
+    },
+    {
+      "brand": "NATIONAL",
+      "number": "NBD874",
+      "numberFix": "NBD874",
+      "crossType": 1,
+      "reliable": false
+    },
+    {
+      "brand": "Akebono",
+      "number": "BN-0003",
+      "numberFix": "BN0003",
+      "crossType": 1,
+      "reliable": false
+    },
+    {
+      "brand": "Optimal",
+      "number": "BS-5450HC",
+      "numberFix": "BS5450HC",
+      "crossType": 1,
+      "reliable": false
+    },
+    {
+      "brand": "Friction Master",
+      "number": "R1917",
+      "numberFix": "R1917",
+      "crossType": 1,
+      "reliable": true
+    },
+    {
+      "brand": "AMD",
+      "number": "AMD.BD454",
+      "numberFix": "AMDBD454",
+      "crossType": 1,
+      "reliable": true
+    },
+    {
+      "brand": "QML",
+      "number": "BD3004",
+      "numberFix": "BD3004",
+      "crossType": 1,
+      "reliable": true
+    },
+    {
+      "brand": "Kraft",
+      "number": "KT 016032",
+      "numberFix": "KT016032",
+      "crossType": 1,
+      "reliable": true
+    },
+    {
+      "brand": "Trialli",
+      "number": "CRB 1034",
+      "numberFix": "CRB1034",
+      "crossType": 1,
+      "reliable": true
+    },
+    {
+      "brand": "DEVERS",
+      "number": "2223-8-9-991",
+      "numberFix": "222389991",
+      "crossType": 1,
+      "reliable": true
+    },
+    {
+      "brand": "EUROREPAR",
+      "number": "1618882780",
+      "numberFix": "1618882780",
+      "crossType": 1,
+      "reliable": true
+    },
+    {
+      "brand": "EUROREPAR",
+      "number": "A221010025",
+      "numberFix": "A221010025",
+      "crossType": 1,
+      "reliable": true
+    },
+    {
+      "brand": "Just Drive",
+      "number": "JBD0022",
+      "numberFix": "JBD0022",
+      "crossType": 1,
+      "reliable": true
+    },
+    {
+      "brand": "Sat",
+      "number": "ST-6R615301PF",
+      "numberFix": "ST6R615301PF",
+      "crossType": 1,
+      "reliable": true
+    },
+    {
+      "brand": "БЗАК",
+      "number": "906478",
+      "numberFix": "906478",
+      "crossType": 1,
+      "reliable": false
+    },
+    {
+      "brand": "SRLine",
+      "number": "S71-0012",
+      "numberFix": "S710012",
+      "crossType": 1,
+      "reliable": true
+    },
+    {
+      "brand": "SRLine",
+      "number": "S71-0012S",
+      "numberFix": "S710012S",
+      "crossType": 1,
+      "reliable": true
+    },
+    {
+      "brand": "ROTINGER",
+      "number": "2479",
+      "numberFix": "2479",
+      "crossType": 1,
+      "reliable": true
+    },
+    {
+      "brand": "ROTINGER",
+      "number": "2479-GL/T1",
+      "numberFix": "2479GLT1",
+      "crossType": 1,
+      "reliable": true
+    },
+    {
+      "brand": "ROTINGER",
+      "number": "2479-GL",
+      "numberFix": "2479GL",
+      "crossType": 1,
+      "reliable": true
+    },
+    {
+      "brand": "ROTINGER",
+      "number": "2479-GL/T2",
+      "numberFix": "2479GLT2",
+      "crossType": 1,
+      "reliable": true
+    },
+    {
+      "brand": "ROTINGER",
+      "number": "2479-GL/T3",
+      "numberFix": "2479GLT3",
+      "crossType": 1,
+      "reliable": true
+    },
+    {
+      "brand": "ROTINGER",
+      "number": "2479-GL/T4",
+      "numberFix": "2479GLT4",
+      "crossType": 1,
+      "reliable": true
+    },
+    {
+      "brand": "ROTINGER",
+      "number": "2479-GL/T5",
+      "numberFix": "2479GLT5",
+      "crossType": 1,
+      "reliable": true
+    },
+    {
+      "brand": "ROTINGER",
+      "number": "2479-GL/T6",
+      "numberFix": "2479GLT6",
+      "crossType": 1,
+      "reliable": true
+    },
+    {
+      "brand": "ROTINGER",
+      "number": "2479HP",
+      "numberFix": "2479HP",
+      "crossType": 1,
+      "reliable": true
+    },
+    {
+      "brand": "ROTINGER",
+      "number": "2479HP-GL",
+      "numberFix": "2479HPGL",
+      "crossType": 1,
+      "reliable": true
+    },
+    {
+      "brand": "ROTINGER",
+      "number": "2479HP-GL/T2",
+      "numberFix": "2479HPGLT2",
+      "crossType": 1,
+      "reliable": true
+    },
+    {
+      "brand": "ROTINGER",
+      "number": "2479HP-GL/T1",
+      "numberFix": "2479HPGLT1",
+      "crossType": 1,
+      "reliable": true
+    },
+    {
+      "brand": "ROTINGER",
+      "number": "2479HP-GL/T4",
+      "numberFix": "2479HPGLT4",
+      "crossType": 1,
+      "reliable": true
+    },
+    {
+      "brand": "ROTINGER",
+      "number": "2479HP-GL/T3",
+      "numberFix": "2479HPGLT3",
+      "crossType": 1,
+      "reliable": true
+    },
+    {
+      "brand": "ROTINGER",
+      "number": "2479HP-GL/T5",
+      "numberFix": "2479HPGLT5",
+      "crossType": 1,
+      "reliable": true
+    },
+    {
+      "brand": "ROTINGER",
+      "number": "2479HP-GL/T6",
+      "numberFix": "2479HPGLT6",
+      "crossType": 1,
+      "reliable": true
+    },
+    {
+      "brand": "Blitz",
+      "number": "BS0153",
+      "numberFix": "BS0153",
+      "crossType": 1,
+      "reliable": true
+    },
+    {
+      "brand": "HELLA PAGID",
+      "number": "8DD355105351",
+      "numberFix": "8DD355105351",
+      "crossType": 1,
+      "reliable": true
+    },
+    {
+      "brand": "HELLA PAGID",
+      "number": "8DD355105-361",
+      "numberFix": "8DD355105361",
+      "alt_number": "53953PRO",
+      "crossType": 1,
+      "reliable": true
+    },
+    {
+      "brand": "BAPCO",
+      "number": "BD0118",
+      "numberFix": "BD0118",
+      "crossType": 1,
+      "reliable": true
+    },
+    {
+      "brand": "CWORKS",
+      "number": "C210R0048",
+      "numberFix": "C210R0048",
+      "crossType": 1,
+      "reliable": true
+    },
+    {
+      "brand": "H&Q",
+      "number": "30093039",
+      "numberFix": "30093039",
+      "crossType": 1,
+      "reliable": true
+    },
+    {
+      "brand": "MARSHALL",
+      "number": "M2000403",
+      "numberFix": "M2000403",
+      "crossType": 1,
+      "reliable": true
+    },
+    {
+      "brand": "AVTOREAL",
+      "number": "AV0024",
+      "numberFix": "AV0024",
+      "crossType": 1,
+      "reliable": true
+    },
+    {
+      "brand": "BRANNOR",
+      "number": "BR3.4103",
+      "numberFix": "BR34103",
+      "crossType": 1,
+      "reliable": false
+    },
+    {
+      "brand": "Trialli",
+      "number": "DF 180105",
+      "numberFix": "DF180105",
+      "crossType": 1,
+      "reliable": true
+    },
+    {
+      "brand": "MOBILAND",
+      "number": "416101491",
+      "numberFix": "416101491",
+      "crossType": 1,
+      "reliable": true
+    },
+    {
+      "brand": "G.U.D",
+      "number": "GDB880110",
+      "numberFix": "GDB880110",
+      "crossType": 1,
+      "reliable": true
+    },
+    {
+      "brand": "7Rt",
+      "number": "DRA-30090",
+      "numberFix": "DRA30090",
+      "crossType": 1,
+      "reliable": true
+    },
+    {
+      "brand": "7Rt",
+      "number": "DRA-30091",
+      "numberFix": "DRA30091",
+      "crossType": 1,
+      "reliable": true
+    },
+    {
+      "brand": "ANTO",
+      "number": "AS-B33290",
+      "numberFix": "ASB33290",
+      "crossType": 1,
+      "reliable": true
+    },
+    {
+      "brand": "ANTO",
+      "number": "AS-B33291",
+      "numberFix": "ASB33291",
+      "crossType": 1,
+      "reliable": true
+    },
+    {
+      "brand": "Fenko",
+      "number": "777-C23296",
+      "numberFix": "777C23296",
+      "crossType": 1,
+      "reliable": true
+    },
+    {
+      "brand": "Fenko",
+      "number": "777-C23297",
+      "numberFix": "777C23297",
+      "crossType": 1,
+      "reliable": true
+    },
+    {
+      "brand": "Ferex",
+      "number": "FRX-25345",
+      "numberFix": "FRX25345",
+      "crossType": 1,
+      "reliable": true
+    },
+    {
+      "brand": "Ferex",
+      "number": "FRX-25346",
+      "numberFix": "FRX25346",
+      "crossType": 1,
+      "reliable": true
+    },
+    {
+      "brand": "HESSA",
+      "number": "ZZXV-27805",
+      "numberFix": "ZZXV27805",
+      "crossType": 1,
+      "reliable": true
+    },
+    {
+      "brand": "HESSA",
+      "number": "ZZXV-27806",
+      "numberFix": "ZZXV27806",
+      "crossType": 1,
+      "reliable": true
+    },
+    {
+      "brand": "NEROLI",
+      "number": "N1-A25940",
+      "numberFix": "N1A25940",
+      "crossType": 1,
+      "reliable": true
+    },
+    {
+      "brand": "NEROLI",
+      "number": "N1-A25941",
+      "numberFix": "N1A25941",
+      "crossType": 1,
+      "reliable": true
+    },
+    {
+      "brand": "NUVICO",
+      "number": "NU7-SE24559",
+      "numberFix": "NU7SE24559",
+      "crossType": 1,
+      "reliable": true
+    },
+    {
+      "brand": "NUVICO",
+      "number": "NU7-SE24560",
+      "numberFix": "NU7SE24560",
+      "crossType": 1,
+      "reliable": true
+    },
+    {
+      "brand": "RUFF",
+      "number": "FF-3U24897",
+      "numberFix": "FF3U24897",
+      "crossType": 1,
+      "reliable": true
+    },
+    {
+      "brand": "RUFF",
+      "number": "FF-3U24898",
+      "numberFix": "FF3U24898",
+      "crossType": 1,
+      "reliable": true
+    },
+    {
+      "brand": "SHIMO",
+      "number": "4R-KF25323",
+      "numberFix": "4RKF25323",
+      "crossType": 1,
+      "reliable": true
+    },
+    {
+      "brand": "SHIMO",
+      "number": "4R-KF25324",
+      "numberFix": "4RKF25324",
+      "crossType": 1,
+      "reliable": true
+    },
+    {
+      "brand": "Brembo",
+      "number": "09.7011.10",
+      "numberFix": "09701110",
+      "crossType": 1,
+      "reliable": false
+    },
+    {
+      "brand": "VAG",
+      "number": "8Z0 615 601 B",
+      "numberFix": "8Z0615601B",
+      "crossType": 1,
+      "reliable": false
+    },
+    {
+      "brand": "PORSCHE",
+      "number": "8Z0 615 601 B",
+      "numberFix": "8Z0615601B",
+      "crossType": 1,
+      "reliable": false
+    },
+    {
+      "brand": "BENTLEY",
+      "number": "8Z0 615 601 B",
+      "numberFix": "8Z0615601B",
+      "crossType": 1,
+      "reliable": false
+    },
+    {
+      "brand": "VAG",
+      "number": "8Z0 615 601 D",
+      "numberFix": "8Z0615601D",
+      "crossType": 1,
+      "reliable": false
+    },
+    {
+      "brand": "PORSCHE",
+      "number": "8Z0 615 601 D",
+      "numberFix": "8Z0615601D",
+      "crossType": 1,
+      "reliable": false
+    },
+    {
+      "brand": "BENTLEY",
+      "number": "8Z0 615 601 D",
+      "numberFix": "8Z0615601D",
+      "crossType": 1,
+      "reliable": false
+    },
+    {
+      "brand": "AMD",
+      "number": "AMD.BD525",
+      "numberFix": "AMDBD525",
+      "crossType": 1,
+      "reliable": true
+    },
+    {
+      "brand": "PATRON",
+      "number": "PBD2803",
+      "numberFix": "PBD2803",
+      "crossType": 1,
+      "reliable": true
+    },
+    {
+      "brand": "CWORKS",
+      "number": "C210R2159",
+      "numberFix": "C210R2159",
+      "crossType": 1,
+      "reliable": true
+    },
+    {
+      "brand": "SpeedMate",
+      "number": "SM-BDE032",
+      "numberFix": "SMBDE032",
+      "crossType": 1,
+      "reliable": true
+    },
+    {
+      "brand": "TATSUMI",
+      "number": "TCC1090",
+      "numberFix": "TCC1090",
+      "crossType": 1,
+      "reliable": true
+    },
+    {
+      "brand": "Trialli",
+      "number": "DF 1801s",
+      "numberFix": "DF1801SE",
+      "alt_number": "DF1801S",
+      "crossType": 1,
+      "reliable": true
+    },
+    {
+      "brand": "VAICO",
+      "number": "V10-90001",
+      "numberFix": "V1090001",
+      "crossType": 1,
+      "reliable": true
+    },
+    {
+      "brand": "VIEROL",
+      "number": "V10-90001",
+      "numberFix": "V1090001",
+      "crossType": 1,
+      "reliable": true
+    },
+    {
+      "brand": "VEMO",
+      "number": "V10-90001",
+      "numberFix": "V1090001",
+      "crossType": 1,
+      "reliable": true
+    },
+    {
+      "brand": "ACKOJAP",
+      "number": "V10-90001",
+      "numberFix": "V1090001",
+      "crossType": 1,
+      "reliable": true
+    },
+    {
+      "brand": "VAG",
+      "number": "JZW 615 301 N",
+      "numberFix": "JZW615301N",
+      "crossType": 1,
+      "reliable": false
+    },
+    {
+      "brand": "PORSCHE",
+      "number": "JZW 615 301 N",
+      "numberFix": "JZW615301N",
+      "crossType": 1,
+      "reliable": false
+    },
+    {
+      "brand": "BENTLEY",
+      "number": "JZW 615 301 N",
+      "numberFix": "JZW615301N",
+      "crossType": 1,
+      "reliable": false
+    },
+    {
+      "brand": "AKNUK",
+      "number": "BD5680",
+      "numberFix": "BD5680",
+      "crossType": 1,
+      "reliable": true
+    },
+    {
+      "brand": "Valeo",
+      "number": "186603",
+      "numberFix": "186603",
+      "crossType": 1,
+      "reliable": true
+    },
+    {
+      "brand": "ZENTPARTS",
+      "number": "Z06250",
+      "numberFix": "Z06250",
+      "crossType": 1,
+      "reliable": true
+    },
+    {
+      "brand": "Q-FIX",
+      "number": "Q091-0002",
+      "numberFix": "Q0910002",
+      "crossType": 1,
+      "reliable": true
+    },
+    {
+      "brand": "MAXGEAR",
+      "number": "19-0774SPORT",
+      "numberFix": "190774SPORT",
+      "crossType": 1,
+      "reliable": true
+    },
+    {
+      "brand": "Quaro",
+      "number": "QD1119HC",
+      "numberFix": "QD1119HC",
+      "crossType": 1,
+      "reliable": true
+    },
+    {
+      "brand": "Ferodo",
+      "number": "DDF927P-D",
+      "numberFix": "DDF927PD",
+      "crossType": 1,
+      "reliable": true
+    },
+    {
+      "brand": "Jurid",
+      "number": "562040JC-1",
+      "numberFix": "562040JC1",
+      "crossType": 1,
+      "reliable": true
+    },
+    {
+      "brand": "Valeo",
+      "number": "672618",
+      "numberFix": "672618",
+      "crossType": 1,
+      "reliable": true
+    },
+    {
+      "brand": "SB Nagamochi",
+      "number": "BR33120T",
+      "numberFix": "BR33120T",
+      "crossType": 1,
+      "reliable": true
+    },
+    {
+      "brand": "HARUMA",
+      "number": "H40504",
+      "numberFix": "H40504",
+      "crossType": 1,
+      "reliable": true
+    },
+    {
+      "brand": "AMD",
+      "number": "AMD.SPORT.BD5292",
+      "numberFix": "AMDSPORTBD5292",
+      "crossType": 1,
+      "reliable": true
+    },
+    {
+      "brand": "AMD",
+      "number": "AMD.SPORT.BD5277",
+      "numberFix": "AMDSPORTBD5277",
+      "crossType": 1,
+      "reliable": true
+    },
+    {
+      "brand": "SEGMATIC",
+      "number": "SBD30093039",
+      "numberFix": "SBD30093039",
+      "crossType": 1,
+      "reliable": true
+    },
+    {
+      "brand": "WILCHER",
+      "number": "CDF00022",
+      "numberFix": "CDF00022",
+      "crossType": 1,
+      "reliable": true
+    },
+    {
+      "brand": "DEQST",
+      "number": "1070100035",
+      "numberFix": "1070100035",
+      "crossType": 1,
+      "reliable": true
+    },
+    {
+      "brand": "EAS",
+      "number": "EBD17010",
+      "numberFix": "EBD17010",
+      "crossType": 1,
+      "reliable": true
+    },
+    {
+      "brand": "EAS",
+      "number": "EBD17010CG",
+      "numberFix": "EBD17010CG",
+      "crossType": 1,
+      "reliable": true
+    },
+    {
+      "brand": "NAKAYAMA",
+      "number": "Q4496",
+      "numberFix": "Q4496",
+      "crossType": 1,
+      "reliable": true
+    },
+    {
+      "brand": "Sasic",
+      "number": "9004878J",
+      "numberFix": "9004878J",
+      "crossType": 1,
+      "reliable": false
+    },
+    {
+      "brand": "TRW",
+      "number": "DF2803S",
+      "numberFix": "DF2803S",
+      "crossType": 1,
+      "reliable": true
+    },
+    {
+      "brand": "Gerat",
+      "number": "DSK-F088",
+      "numberFix": "DSKF088",
+      "crossType": 1,
+      "reliable": true
+    },
+    {
+      "brand": "Gerat",
+      "number": "DSK-F088W",
+      "numberFix": "DSKF088W",
+      "crossType": 1,
+      "reliable": true
+    },
+    {
+      "brand": "ABSEL",
+      "number": "WG421001",
+      "numberFix": "WG421001",
+      "crossType": 1,
+      "reliable": true
+    },
+    {
+      "brand": "ZF Russia",
+      "number": "DF2803 ZFR",
+      "numberFix": "DF2803ZFR",
+      "crossType": 1,
+      "reliable": true
+    },
+    {
+      "brand": "ANYU",
+      "number": "AFK776649",
+      "numberFix": "AFK776649",
+      "crossType": 1,
+      "reliable": true
+    },
+    {
+      "brand": "Aplus",
+      "number": "61264AP",
+      "numberFix": "61264AP",
+      "crossType": 1,
+      "reliable": true
+    },
+    {
+      "brand": "Blue Print",
+      "number": "ADV184301",
+      "numberFix": "ADV184301",
+      "crossType": 1,
+      "reliable": true
+    },
+    {
+      "brand": "Masuma",
+      "number": "BD-E0009",
+      "numberFix": "BDE0009",
+      "crossType": 1,
+      "reliable": true
+    },
+    {
+      "brand": "Miles",
+      "number": "K200412",
+      "numberFix": "K200412",
+      "crossType": 1,
+      "reliable": true
+    },
+    {
+      "brand": "AVANTECH",
+      "number": "BR2801S",
+      "numberFix": "BR2801S",
+      "crossType": 1,
+      "reliable": true
+    },
+    {
+      "brand": "PORSCHE",
+      "number": "6R0 615 301",
+      "numberFix": "6R0615301",
+      "crossType": 1,
+      "reliable": true
+    },
+    {
+      "brand": "BENTLEY",
+      "number": "6R0 615 301",
+      "numberFix": "6R0615301",
+      "crossType": 1,
+      "reliable": true
+    },
+    {
+      "brand": "Febi",
+      "number": "22880",
+      "numberFix": "22880",
+      "crossType": 1,
+      "reliable": true
+    },
+    {
+      "brand": "Swag",
+      "number": "30 92 2880",
+      "numberFix": "30922880",
+      "crossType": 1,
+      "reliable": true
+    },
+    {
+      "brand": "Bosch",
+      "number": "0.986.478.988",
+      "numberFix": "0986478988",
+      "short_number": "986478988",
+      "crossType": 1,
+      "reliable": true
+    },
+    {
+      "brand": "Textar",
+      "number": "92106500",
+      "numberFix": "92106500",
+      "crossType": 1,
+      "reliable": false
+    },
+    {
+      "brand": "Zimmermann",
+      "number": "100.1246.52",
+      "numberFix": "100124652",
+      "crossType": 1,
+      "reliable": false
+    },
+    {
+      "brand": "topran",
+      "number": "110 435",
+      "numberFix": "110435",
+      "crossType": 1,
+      "reliable": false
+    },
+    {
+      "brand": "MASTER-SPORT",
+      "number": "24012201511-SET-MS",
+      "numberFix": "24012201511SETMS",
+      "crossType": 1,
+      "reliable": false
+    },
+    {
+      "brand": "MASTER-SPORT",
+      "number": "24012201511-PCS-MS",
+      "numberFix": "24012201511PCSMS",
+      "crossType": 1,
+      "reliable": false
+    },
+    {
+      "brand": "FREMAX",
+      "number": "BD-5617",
+      "numberFix": "BD5617",
+      "crossType": 1,
+      "reliable": false
+    },
+    {
+      "brand": "Logem",
+      "number": "LVA-1246",
+      "numberFix": "LVA1246",
+      "crossType": 1,
+      "reliable": false
+    },
+    {
+      "brand": "Zimmermann",
+      "number": "100.1246.20",
+      "numberFix": "100124620",
+      "crossType": 1,
+      "reliable": false
+    },
+    {
+      "brand": "MASTER-SPORT",
+      "number": "24-0122-0151-1-SET/2/-MS",
+      "numberFix": "24012201511SET2MS",
+      "crossType": 1,
+      "reliable": false
+    },
+    {
+      "brand": "TRISCAN",
+      "number": "8120 29182C",
+      "numberFix": "812029182C",
+      "crossType": 1,
+      "reliable": false
+    },
+    {
+      "brand": "JP Group",
+      "number": "1163101109",
+      "numberFix": "1163101109",
+      "crossType": 1,
+      "reliable": false
+    },
+    {
+      "brand": "Lpr/AP",
+      "number": "24690E",
+      "numberFix": "24690E",
+      "crossType": 1,
+      "reliable": false
+    },
+    {
+      "brand": "KOSHIMO",
+      "number": "18700071014",
+      "numberFix": "18700071014",
+      "crossType": 1,
+      "reliable": false
+    },
+    {
+      "brand": "StarLine",
+      "number": "PB24791",
+      "numberFix": "PB24791",
+      "crossType": 1,
+      "reliable": false
+    },
+    {
+      "brand": "APEC braking",
+      "number": "DSK750",
+      "numberFix": "DSK750",
+      "crossType": 1,
+      "reliable": false
+    },
+    {
+      "brand": "BRECO",
+      "number": "BS8279",
+      "numberFix": "BS8279",
+      "crossType": 1,
+      "reliable": false
+    },
+    {
+      "brand": "Lpr/AP",
+      "number": "X24690",
+      "numberFix": "X24690",
+      "crossType": 1,
+      "reliable": false
+    },
+    {
+      "brand": "ASHUKI",
+      "number": "191177A",
+      "numberFix": "191177A",
+      "crossType": 1,
+      "reliable": false
+    },
+    {
+      "brand": "Lpr/AP",
+      "number": "24690V",
+      "numberFix": "24690V",
+      "crossType": 1,
+      "reliable": false
+    },
+    {
+      "brand": "BRECO",
+      "number": "BV8279",
+      "numberFix": "BV8279",
+      "crossType": 1,
+      "reliable": false
+    },
+    {
+      "brand": "HELLA PAGID",
+      "number": "50314",
+      "numberFix": "50314",
+      "crossType": 1,
+      "reliable": false
+    },
+    {
+      "brand": "HELLA PAGID",
+      "number": "8DD355107591",
+      "numberFix": "8DD355107591",
+      "crossType": 1,
+      "reliable": true
+    },
+    {
+      "brand": "TRW",
+      "number": "DF4235",
+      "numberFix": "DF4235",
+      "crossType": 1,
+      "reliable": true
+    },
+    {
+      "brand": "FormPart",
+      "number": "29615074/K",
+      "numberFix": "29615074K",
+      "crossType": 1,
+      "reliable": true
+    },
+    {
+      "brand": "ALLIED NIPPON",
+      "number": "ADC2111V",
+      "numberFix": "ADC2111V",
+      "crossType": 1,
+      "reliable": false
+    },
+    {
+      "brand": "Mapco",
+      "number": "15830",
+      "numberFix": "15830",
+      "crossType": 1,
+      "reliable": true
+    },
+    {
+      "brand": "LEMFORDER",
+      "number": "21309 01",
+      "numberFix": "2130901",
+      "crossType": 1,
+      "reliable": false
+    },
+    {
+      "brand": "JP Group",
+      "number": "615290002ALT",
+      "numberFix": "615290002ALT",
+      "crossType": 1,
+      "reliable": false
+    },
+    {
+      "brand": "Schnieder",
+      "number": "VW02.7011.10",
+      "numberFix": "VW02701110",
+      "crossType": 1,
+      "reliable": false
+    },
+    {
+      "brand": "Logem",
+      "number": "LVA-1239",
+      "numberFix": "LVA1239",
+      "crossType": 1,
+      "reliable": false
+    },
+    {
+      "brand": "Bosch",
+      "number": "F026A00980",
+      "numberFix": "F026A00980",
+      "crossType": 1,
+      "reliable": false
+    },
+    {
+      "brand": "Ruville",
+      "number": "BFR371610",
+      "numberFix": "BFR371610",
+      "crossType": 1,
+      "reliable": false
+    },
+    {
+      "brand": "Rider",
+      "number": "RD.3325.DF2803",
+      "numberFix": "RD3325DF2803",
+      "crossType": 1,
+      "reliable": false
+    },
+    {
+      "brand": "Bosch",
+      "number": "0986BB4337",
+      "numberFix": "0986BB4337",
+      "crossType": 1,
+      "reliable": false
+    },
+    {
+      "brand": "Sat",
+      "number": "ST-1J0615301D",
+      "numberFix": "ST1J0615301D",
+      "crossType": 1,
+      "reliable": false
+    },
+    {
+      "brand": "AVANTECH",
+      "number": "BR2801",
+      "numberFix": "BR2801",
+      "crossType": 1,
+      "reliable": true
+    },
+    {
+      "brand": "7Rt",
+      "number": "DRA-13259",
+      "numberFix": "DRA13259",
+      "crossType": 1,
+      "reliable": false
+    },
+    {
+      "brand": "ANTO",
+      "number": "AS-B16459",
+      "numberFix": "ASB16459",
+      "crossType": 1,
+      "reliable": false
+    },
+    {
+      "brand": "Fenko",
+      "number": "777-C6465",
+      "numberFix": "777C6465",
+      "crossType": 1,
+      "reliable": false
+    },
+    {
+      "brand": "Ferex",
+      "number": "FRX-8514",
+      "numberFix": "FRX8514",
+      "crossType": 1,
+      "reliable": false
+    },
+    {
+      "brand": "HESSA",
+      "number": "ZZXV-10974",
+      "numberFix": "ZZXV10974",
+      "crossType": 1,
+      "reliable": false
+    },
+    {
+      "brand": "NEROLI",
+      "number": "N1-A9109",
+      "numberFix": "N1A9109",
+      "crossType": 1,
+      "reliable": false
+    },
+    {
+      "brand": "NUVICO",
+      "number": "NU7-SE7728",
+      "numberFix": "NU7SE7728",
+      "crossType": 1,
+      "reliable": false
+    },
+    {
+      "brand": "RUFF",
+      "number": "FF-3U8066",
+      "numberFix": "FF3U8066",
+      "crossType": 1,
+      "reliable": false
+    },
+    {
+      "brand": "SHIMO",
+      "number": "4R-KF8492",
+      "numberFix": "4RKF8492",
+      "crossType": 1,
+      "reliable": false
+    },
+    {
+      "brand": "Mando",
+      "number": "MBC030306",
+      "numberFix": "MBC030306",
+      "crossType": 1,
+      "reliable": false
+    },
+    {
+      "brand": "SAKES",
+      "number": "6900100201",
+      "numberFix": "6900100201",
+      "crossType": 1,
+      "reliable": false
+    },
+    {
+      "brand": "HSB",
+      "number": "HD7007",
+      "numberFix": "HD7007",
+      "crossType": 1,
+      "reliable": false
+    },
+    {
+      "brand": "AUTOMEGA",
+      "number": "1061503018Z0B",
+      "numberFix": "1061503018Z0B",
+      "crossType": 1,
+      "reliable": false
+    },
+    {
+      "brand": "BRAXIS",
+      "number": "AE0312",
+      "numberFix": "AE0312",
+      "crossType": 1,
+      "reliable": false
+    },
+    {
+      "brand": "BRAKE ENGINEERING",
+      "number": "DI955636",
+      "numberFix": "DI955636",
+      "crossType": 1,
+      "reliable": false
+    },
+    {
+      "brand": "Girling",
+      "number": "6028031",
+      "numberFix": "6028031",
+      "crossType": 1,
+      "reliable": false
+    },
+    {
+      "brand": "BARUM",
+      "number": "BAR22151",
+      "numberFix": "BAR22151",
+      "crossType": 1,
+      "reliable": false
+    },
+    {
+      "brand": "Denckermann",
+      "number": "B130036",
+      "numberFix": "B130036",
+      "crossType": 1,
+      "reliable": false
+    },
+    {
+      "brand": "Logem",
+      "number": "LVA-1240",
+      "numberFix": "LVA1240",
+      "crossType": 1,
+      "reliable": false
+    },
+    {
+      "brand": "DODA",
+      "number": "1070100047",
+      "numberFix": "1070100047",
+      "crossType": 1,
+      "reliable": false
+    },
+    {
+      "brand": "SRLine",
+      "number": "S71-0242",
+      "numberFix": "S710242",
+      "crossType": 1,
+      "reliable": true
+    },
+    {
+      "brand": "DEQST",
+      "number": "1070100047",
+      "numberFix": "1070100047",
+      "crossType": 1,
+      "reliable": true
+    },
+    {
+      "brand": "Vika",
+      "number": "661500221",
+      "numberFix": "661500221",
+      "crossType": 1,
+      "reliable": true
+    },
+    {
+      "brand": "OPEN PARTS",
+      "number": "BDA1730.20",
+      "numberFix": "BDA173020",
+      "crossType": 1,
+      "reliable": false
+    },
+    {
+      "brand": "OPEN PARTS",
+      "number": "BDR1730.20",
+      "numberFix": "BDR173020",
+      "crossType": 1,
+      "reliable": false
+    },
+    {
+      "brand": "STOP",
+      "number": "562040S",
+      "numberFix": "562040S",
+      "crossType": 1,
+      "reliable": false
+    },
+    {
+      "brand": "WAGNER",
+      "number": "WGR0927-1",
+      "numberFix": "WGR09271",
+      "crossType": 1,
+      "reliable": false
+    },
+    {
+      "brand": "ACDelco",
+      "number": "19374538",
+      "numberFix": "19374538",
+      "crossType": 1,
+      "reliable": true
+    },
+    {
+      "brand": "FTE Automotive",
+      "number": "BS4669",
+      "numberFix": "BS4669",
+      "crossType": 1,
+      "reliable": false
+    },
+    {
+      "brand": "VAICO",
+      "number": "V10-5590",
+      "numberFix": "V105590",
+      "crossType": 1,
+      "reliable": false
+    },
+    {
+      "brand": "VAG",
+      "number": "1JE 615 301",
+      "numberFix": "1JE615301",
+      "crossType": 1,
+      "reliable": false
+    },
+    {
+      "brand": "GANZ",
+      "number": "GIJ06243",
+      "numberFix": "GIJ06243",
+      "crossType": 1,
+      "reliable": false
+    },
+    {
+      "brand": "China",
+      "number": "6R0 615 301",
+      "numberFix": "6R0615301",
+      "crossType": 1,
+      "reliable": false
+    }
+  ],
+  "descr": "Диск тормозной передний",
+  "images": [
+    {
+      "name": "01011231c700ae9602a18a6a9f80c9e985c6780002.jpeg",
+      "order": 0
+    }
+  ],
+  "images_count": 1,
+  "number": "6R0615301",
+  "outer_number": "6R0 615 301",
+  "properties": {
+    "fitment_axle_original_name": "front",
+    "Описание": "Диск тормозной передний",
+    "Ось установки": "передняя ось",
+    "Товарная группа": "тормозные диски"
+  }
+}
