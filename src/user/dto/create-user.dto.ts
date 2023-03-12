@@ -13,9 +13,6 @@ export class CreateUserDto {
   @Length(11)
   phoneNumber: string;
 
-  @Length(11)
-  additionalPhoneNumber?: string;
-
   @Length(12)
   address: string;
 

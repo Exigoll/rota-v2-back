@@ -20,9 +20,6 @@ export class UserEntity {
   @Column()
   phoneNumber: string;
 
-  @Column({ nullable: true })
-  additionalPhoneNumber?: string;
-
   @Column()
   legalForm: string;
 
