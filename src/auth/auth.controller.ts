@@ -1,15 +1,9 @@
-import { CreateUserDto } from './../user/dto/create-user.dto';
-import { LocalAuthGuard } from './guards/local-auth.guard';
-import {
-  Controller,
-  Post,
-  UseGuards,
-  Request,
-  Get,
-  Body,
-} from '@nestjs/common';
+import { Body, Controller, Post, Request, UseGuards } from '@nestjs/common';
+
+import { CreateUserDto } from '@/user/dto/create-user.dto';
+
 import { AuthService } from './auth.service';
-import { JwtAuthGuard } from './guards/jwt-auth.guard';
+import { LocalAuthGuard } from './guards/local-auth.guard';
 
 @Controller('auth')
 export class AuthController {

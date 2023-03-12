@@ -1,4 +1,4 @@
-import { Entity, Column, PrimaryGeneratedColumn } from 'typeorm';
+import { Column, Entity, PrimaryGeneratedColumn } from 'typeorm';
 
 @Entity('users')
 export class UserEntity {
@@ -19,9 +19,6 @@ export class UserEntity {
 
   @Column()
   phoneNumber: string;
-
-  @Column({ nullable: true })
-  additionalPhoneNumber?: string;
 
   @Column()
   legalForm: string;
